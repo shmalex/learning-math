@@ -1,0 +1,86 @@
+{
+	"Distance Measure": [
+		"TV",
+		"KL"
+	],
+	"TV": [
+		"Расстояние",
+		"Симметричность",
+		"Положительное",
+		"Определенность",
+		"Треугольное неравенство",
+		"Верхняя Граница"
+	],
+	"KL": [
+		"Дивергенция",
+		"Не Симметричность",
+		"Положительное",
+		"Определенность",
+		"Не Треугольное неравенство",
+		"Jensen's Inequality",
+		"Relative Entropy",
+		"L1 norm",
+		"MLE",
+		"Максимизация"
+	],
+	"Оценщик": [
+		"KL"
+	],
+	"Максимизация": [
+		"MLE",
+		"(Strickly) Concave",
+		"EM-Algorithm",
+		"Оптимизация"
+	],
+	"MLE": [
+		"Likelihood",
+		"Netural Estimator",
+		"Derivative",
+		"Weakly Consistent Estimator",
+		"Логарифм",
+		"Выборка"
+	],
+	"Likelihood": [
+		"hat-theta",
+		"Непрерывная",
+		"Предположение Формы",
+		"Параметры это Переменные",
+		"Данные Это Константа",
+		"Симметрична",
+		"argmax",
+		"Выбор из Параметров",
+		"EM-Algorithm",
+		"Полином"
+	],
+	"Indicator function": [
+		"min-max trick",
+		"Well specified"
+	],
+	"Логарифм": [
+		"Убирает Степени",
+		"Убрает Экспоненты"
+	],
+	"Оптимизация": [
+		"GD",
+		"Adam"
+	],
+	"(Strickly) Concave": [
+		"h\"(x)<0",
+		"Local is Global",
+		"Gradient R^d"
+	],
+	"EM-Algorithm": [
+		"MAP",
+		"Non-Concave",
+		"Algorithm",
+		"Update Centers",
+		"Maximum Likelihood",
+		"Gaussian Mixture",
+		"Compute Weights"
+	],
+	"Algorithm": [
+		"Theoretical Gauranties",
+		"Iterations",
+		"Heruistics"
+	]
+}
