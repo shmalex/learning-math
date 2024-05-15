@@ -3,7 +3,7 @@
 import json
 import networkx as nx
 import matplotlib.pyplot as plt
-
+# progs = ["dot","neato","fdp","sfdp","circo","twopi","nop","nop2","osage","patchwork"]
 def show_graph(d, root=None, seed=42, node_size=900, font_size=10, figsize=(12, 8), prog='twopi', debug=False): #
     G = nx.DiGraph()
     traverse_dict(G, None, d, debug=debug)
